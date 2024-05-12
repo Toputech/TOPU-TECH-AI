@@ -5,7 +5,7 @@
   "main": "topik.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
+    "s": "node topik.js",
     "topumd": "pm2 start topik.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
