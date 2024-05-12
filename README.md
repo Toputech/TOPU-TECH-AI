@@ -9,12 +9,12 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> TOPU MD💥, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> TOPU MD, A Simple WhatsApp user BOT, Created by topu Tech.
 </p>
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img srsrc"https://telegra.ph/file/8dace2d24b82568c29e19.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img srsrc="https://telegra.ph/file/8dace2d24b82568c29e19.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
@@ -27,7 +27,7 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
+## Support 
 ## Join my channel for updates and get free cc
 <a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -50,9 +50,9 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Toputech/TOPU-TECH-AI/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+2, TAP TOPU TECH APP DOWN THERE
 
 
 
@@ -77,7 +77,7 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
+  ***<p align="center"><a href="https://TOPU-code-app-c1168f4953cd.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20TOPU%20TECH%20APP-Yellow?style=for-the-badge&logo=TOPU" width="220" height="38.45"/></a></p>***
 
 
@@ -93,7 +93,7 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *TOPU-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO
 [Naveed Dogar]
 
@@ -108,6 +108,6 @@ Contributions to *BMW-MD* are welcome! If you have ideas for new features, impro
 The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *TOPU-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+☣Powered by TOPU Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
