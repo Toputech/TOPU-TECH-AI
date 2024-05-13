@@ -11,20 +11,13 @@
  
 <p align="center"> TOPU MD, A Simple WhatsApp user BOT, Created by topu Tech.
 </p>
-
+ 
+<p align="center">TOPU MD,is currently under development stay updated
 
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/8dace2d24b82568c29e19.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center">  SCAN SESSION </h1>
  
-
-  ***[`Get session by PAIRING CODE`](https://topuumd-c0fba67104c6.herokuapp.com/pair)***
-
-
-  
-  ***[`TAP HERE TO SCAN QR`](https://topu-code-app-c1168f4953cd.herokuapp.com/qr)***
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 
@@ -52,24 +45,19 @@ HOW TO REACH THE OWNER?
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/Toputech/TOPU-TECH-AI/fork)
 
-2, TAP TOPU TECH APP DOWN THERE
+2,GET A SESSION BY PAIR CODE
+[`Get session`](https://topuumd-c0fba67104c6.herokuapp.com/pair)
+ 
+ 3,Deploy TOPU MD on heroku***[`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/Toputech/TOPU-TECH-AI)***
 
-
-
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
-
-
-
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
-
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  TOPU MD
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Toputech/TOPU-TECH-AI)***
+ NOTE: Makesure you follow my channel for latest updates for TOPU MD bot and free CC
+ [`WA CHANNEL`](https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r)
 
 
 
@@ -77,15 +65,15 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://TOPU-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20TOPU%20TECH%20APP-Yellow?style=for-the-badge&logo=TOPU" width="220" height="38.45"/></a></p>***
+
 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
-  
+   
+<p align="center">Thankyou for choosing TOPU MD bot 🤣😃😃😃😃😂🤣🤣😀😀😁👴
 
 
 
@@ -103,6 +91,7 @@ Contributions to *TOPU-MD* are welcome! If you have ideas for new features, impr
 
 [Morice]
 
+[king ibrahim]
 ## License
 
 The *TOPU-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
