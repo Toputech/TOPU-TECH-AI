@@ -19,7 +19,7 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-  ***[`TAP HERE TO SCAN PAIRING CODE`](https://topuumd-c0fba67104c6.herokuapp.com/pair)***
+  ***[`Get session by PAIRING CODE`](https://topuumd-c0fba67104c6.herokuapp.com/pair)***
 
 
   
